@@ -1,0 +1,26 @@
+# Gizli bilgiler — asla depoya girmemeli
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+key.properties
+google-services.json
+GoogleService-Info.plist
+
+# Claude Code yerel ayarları (launch.json paylaşılır)
+.claude/settings.local.json
+
+# Kullanıcı yüklemeleri ve üretilen görseller
+backend/storage/app/public/*
+!backend/storage/app/public/.gitignore
+
+# İşletim sistemi / editör
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
