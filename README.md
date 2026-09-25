@@ -12,8 +12,11 @@ Flutter mobil uygulama · Laravel API · Özel CSS admin panel · OpenRouter gö
 ![MySQL](https://img.shields.io/badge/MySQL-8%20%2F%20MariaDB-4479A1?logo=mysql&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/AI-OpenRouter-6E56CF)
 ![Docker](https://img.shields.io/badge/Docker-gerekmez-lightgrey)
+![Lisans](https://img.shields.io/badge/Lisans-MIT-FFB800)
 
 </div>
+
+> 💛 **Özgürce kullanabilirsin:** Bu proje açık kaynaktır. Ticari amaçla ya da farklı amaçlarla kullanmak isteyen herkes dilediği gibi kullanabilir, değiştirebilir ve dağıtabilir. Ayrıntılar için [Lisans](#-lisans--kullanım-izni) bölümüne bak.
 
 ---
 
@@ -272,3 +275,22 @@ flutter analyze
 - [ ] Shopify'a aktarım
 
 Ayrıntılar için: **[PROJE_DOKUMANI.md](PROJE_DOKUMANI.md)**
+
+---
+
+## 📜 Lisans & Kullanım İzni
+
+Bu proje **[MIT Lisansı](LICENSE)** ile yayınlanmıştır.
+
+**Ticari amaçla ya da farklı amaçlarla kullanmak isteyen herkes projeyi dilediği gibi kullanabilir.** Buna şunlar dahildir:
+
+- ✅ Kendi ürününde, müşteri projelerinde veya ticari bir hizmette kullanmak
+- ✅ Kodu değiştirmek, geliştirmek, yeniden markalamak
+- ✅ Satmak, dağıtmak, alt lisanslamak
+- ✅ Eğitim, araştırma veya kişisel projelerde kullanmak
+
+Tek koşul: Projenin kopyalarında [LICENSE](LICENSE) dosyasındaki telif ve izin metninin korunmasıdır. Yazılım "olduğu gibi" sunulur; herhangi bir garanti verilmez.
+
+> ℹ️ Uygulama görsel üretimi için **OpenRouter** ve bağlı model sağlayıcılarını (Google, OpenAI vb.) kullanır. Bu servislerin kullanım koşulları ve ücretlendirmesi projeyi kullanan kişinin kendi sorumluluğundadır. Seed verisindeki örnek şablon görselleri, tasarım aşamasında üretilmiş uzak görsellerdir; canlı kullanımda kendi görsellerinle değiştirmen önerilir.
+
+Katkılar, hata bildirimleri ve öneriler memnuniyetle karşılanır. 🙌
